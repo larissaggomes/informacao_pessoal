@@ -1,4 +1,4 @@
-Informações Pessoais
+## Informações Pessoais
 
 Este projeto é um exemplo simples de código em HTML e JavaScript que solicita ao usuário algumas informações pessoais (nome, profissão e cidade) e as exibe diretamente na página web.
 📋 Funcionalidades
